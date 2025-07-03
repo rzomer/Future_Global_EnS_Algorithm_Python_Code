@@ -21,6 +21,9 @@ The Future_Global_EnS_Database provides a high-resolution (30 arc-seconds) globa
 
 The Future_Global_EnS_Database is available from Open Research Europe Repository (Zenodo) at this link:
 
+	       https://doi.org/10.5281/zenodo.15795672
+
 Zomer, R.J., Trabucco, A. . v1. (2025). Future_Global_EnS: CMIP6 Global Environmental Stratification. Open Research Europe Repository: Zenodo. DOI:10.5281/zenodo.15099764
+
 Contact: Robert Zomer - r.zomer@cmcc.it
 
